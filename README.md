@@ -8,7 +8,7 @@
 
   <a href="mailto: leon.uchoa@gmail.com">
   <code>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" />
+  <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="36" />
   </code>
   </a>
 
@@ -85,6 +85,11 @@ My main interests are:
 <img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="36" />
 </code>
 </a>
+<a href="https://jupyter.org/">
+  <code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="36" />
+  </code>
+  </a>
 <a href="https://www.gnu.org/home.en.html">
   <code>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" width="36" />
