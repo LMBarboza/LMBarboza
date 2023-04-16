@@ -17,21 +17,21 @@ and Free Software enthusiast 😎
 
 My main interests are: 
   - 🧠 Deep learning 
-  - Computer graphics
+  - 🚀 Scientific Computing 
+  - Statistics
   - Geometry
-  - Algebra
 
 ### 🔭 I’m currently working on:
-  - Neural networks for interpolation and root-finding problems
-  - Notes for my statistical inference and scientific computing courses
+  - Neural Networks for text classification
+  - Credit Scoring
 ### 🌱 I’m currently learning
-- OpenGL
+- Julia
 - SQL 
 - Pytorch
 ### 📘 I'm currently studying
-- Analysis
-- Topology
-- Statistics
+- Formal Languages
+- Mathematical Modeling
+- Convolutional Neural Networks
 
 #### *Distributions*
 <a href="https://www.archlinux.org">
