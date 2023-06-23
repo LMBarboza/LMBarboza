@@ -3,7 +3,7 @@
 # $\int\limits_{\Omega} d\omega = \int\limits_{\partial\Omega} \omega$
 - Contact:
 
-  ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leon-barboza-47a315256/)
+  ![[Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leon-barboza-47a315256/)
 &nbsp;
 
   <a href="mailto: leon.uchoa@gmail.com">
