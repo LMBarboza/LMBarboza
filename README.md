@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats   
    <p align="center">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=LMBarboza&show_icons=true&theme=dracula" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=LMBarboza&show_icons=true&theme=dracula&include_all_commits=true" />
       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMBarboza&layout=donut&theme=dracula&langs_count=6" />
    </p>
 - Contact:
