@@ -12,7 +12,7 @@
 
 <h3 align="left">📫 Contact me</h3>
 <p align="left">
-    <a href="https://github.com/LMBarboza" alt="GitHub Repositories" target="_blank">
+    <a href="https://www.linkedin.com/in/leon-barboza-47a315256/" alt="GitHub Repositories" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
     <a href="mailto:leon.uchoa@gmail.com" alt="Gmail">
     <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/77bb52e7ed724e437c488792dfa94146f6d48f11/icons/Gmail-Dark.svg" height="40"/></a></p>
