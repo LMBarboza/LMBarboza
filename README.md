@@ -10,7 +10,7 @@
       <img height="200px" src="https://github-readme-stats-five-tau-82.vercel.app/api/top-langs/?username=LMBarboza&layout=donut&theme=dracula&langs_count=6" />
    </p>
 
-<h3 align="left">📫 Contact me</h3>
+## 📫 Contact me
 <p align="left">
     <a href="https://www.linkedin.com/in/leon-barboza-47a315256/" alt="GitHub Repositories" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
