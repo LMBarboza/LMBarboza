@@ -48,6 +48,6 @@
 
 - **Linux Distributions**:
      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arch/arch-original.svg">
-     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nix/nix-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
 
