@@ -18,3 +18,12 @@
     <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/77bb52e7ed724e437c488792dfa94146f6d48f11/icons/Gmail-Dark.svg" height="40"/></a></p>
 <br>
 
+## ☄️ Skills:
+- **Programming Languages**:
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg">
+     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+
