@@ -3,6 +3,8 @@
 
 # $\int\limits_{\Omega} d\omega = \int\limits_{\partial\Omega} \omega$
 
+## About me 
+Applied Mathematics student at UFRJ and undergraduate researcher at LAMDEC. Mostly interested in machine learning, matrix computations, parallel and distributed systems.
 
 ## 📊 GitHub Stats   
    <p align="center">
